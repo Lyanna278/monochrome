@@ -1,0 +1,10 @@
+body{
+    margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    margin: auto;
+   
+}
